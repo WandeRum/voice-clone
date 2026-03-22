@@ -1,0 +1,7 @@
+torch
+torchaudio
+TTS
+sounddevice
+soundfile
+numpy
+gradio

@@ -1,0 +1,7 @@
+voiceclone/
+__pycache__/
+*.pyc
+*.pyo
+*.wav
+*.npz
+.DS_Store
